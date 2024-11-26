@@ -6,19 +6,19 @@ Welcome to my project hub. Here you’ll find a curated list of all my repositor
 ## **📂 Categories**  
 1. [Frontend Projects](#-frontend-projects)
 2. [Telegram Bots](#-telegram-bots)
-3. [Scripts, etc.](#-scripts-projects)
-
----
-
-### **🤖 Telegram Bots**  
-1. [**ChatGPT-Bot**](404)  
-   _Description:_ A simple bot to talk with ChatGPT. 
+3. [Scripts, etc.](#-other-projects)
 
 ---
 
 ### **🌐 Frontend Projects**  
 1. [**Personal Portfolio**](404)  
    _Description:_ My personal portfolio showcasing my skills and projects.  
+
+---
+
+### **🤖 Telegram Bots**  
+1. [**ChatGPT-Bot**](404)  
+   _Description:_ A simple bot to talk with ChatGPT. 
 
 ---
 
