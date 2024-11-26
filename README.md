@@ -6,7 +6,7 @@ Welcome to my project hub. Here you’ll find a curated list of all my repositor
 ## **📂 Categories**  
 1. [Frontend Projects](#-frontend-projects)
 2. [Telegram Bots](#-telegram-bots)
-3. [Scripts, etc.](#-other-projects)
+3. [Other Projects](#-other-projects)
 
 ---
 
